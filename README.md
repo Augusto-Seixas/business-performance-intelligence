@@ -1,2 +1,11 @@
-# business-performance-intelligence
-End-to-end data analytics project integrating multi-source data (marketing, sales, operations, customer feedback) with SQL, Python, and Power BI for validation, KPI analysis, dashboards, and business reporting.
+# Sales Ops Analytics — Foundry-Oriented Project
+
+## Overview
+This project simulates a sales operations environment inspired by the requirements of a Sales Operations Analyst role.
+
+## Focus
+- CRM structure
+- Pipeline analysis
+- Data quality
+- Forecasting support
+- Revenue process visibility

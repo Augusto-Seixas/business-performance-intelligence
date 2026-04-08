@@ -1,0 +1,11 @@
+lead_id,source,created_date,stage,owner,deal_value
+1,Website,2026-01-01,Lead,John,1000
+2,LinkedIn,2026-01-02,Qualified,Ana,2000
+3,Referral,2026-01-03,Proposal,John,3000
+4,Website,2026-01-04,Lead,Ana,1500
+5,Email,2026-01-05,Negotiation,John,4000
+6,LinkedIn,2026-01-06,Qualified,Ana,2500
+7,Referral,2026-01-07,Closed Won,John,5000
+8,Website,2026-01-08,Closed Lost,Ana,1800
+9,Email,2026-01-09,Proposal,John,3200
+10,LinkedIn,2026-01-10,Lead,Ana,2100
